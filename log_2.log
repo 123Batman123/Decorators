@@ -1,0 +1,6 @@
+2023-01-12 15:31:06,749 INFO 
+                Date and time: 2023-01-12 15.31,
+                Function name: summator,
+                Arguments: ((4.3,), {'b': 2.2}),
+                Result: 6.5
+                

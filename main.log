@@ -1,0 +1,12 @@
+2023-01-12 15:33:36,006 INFO 
+            Date and time: 2023-01-12 15.33,
+            Function name: search_django_flask,
+            Arguments: ((), {}),
+            Result: None
+            
+2023-01-12 15:33:55,304 INFO 
+            Date and time: 2023-01-12 15.33,
+            Function name: search_usd,
+            Arguments: ((), {}),
+            Result: None
+            
